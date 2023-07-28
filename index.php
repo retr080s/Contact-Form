@@ -3,9 +3,10 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Contact form</title>
-
 <head>
+<title>Contact form</title>
+</head>
+
 
 <body style="background-color: #2b3035;">
     <h1 class="text-light">Contact Form</h1>
@@ -32,15 +33,6 @@
         <br>
         <button type="submit" class="btn btn-info">Submit</button>
     </form>
-    <?php
-    //echo $_POST['name'];
-    //echo $_POST['email'];
-    //echo $_POST['reason'];
-    //echo $_POST['textarea'];
-    ?>
-
-
 </body>
-</head>
 
 </html>
