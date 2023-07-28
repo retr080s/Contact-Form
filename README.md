@@ -1,5 +1,7 @@
 # Contact-Form
 
+<img src="https://img.shields.io/badge/PHP 🐘 -purple"> <img src="https://img.shields.io/badge/Contact Form 📧 -purple">
+
 A simple and modern looking contact form built with PHP and Bootstrap.
 
 ![Screenshot 2023-07-28 at 16-43-37 Contact form](https://github.com/retr080s/Contact-Form/assets/84463361/d4351548-3447-4870-bd06-1dace95381ae)
