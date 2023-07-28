@@ -11,9 +11,9 @@
     <h1 class="text-light">Contact Form</h1>
     <form action="received.php" method="post" data-bs-theme="dark">
         <div class="mb-3" >
-            <label for="exampleFormControlInput1" class="form-label">Name</label>
+            <label for="exampleFormControlInput1" class="form-label text-light">Name</label>
             <input type="text" class="form-control" id="exampleFormControlInput1" name="name">
-            <label for="exampleFormControlInput1" class="form-label">Email address</label>
+            <label for="exampleFormControlInput1" class="form-label text-light">Email address</label>
             <input type="email" class="form-control" id="exampleFormControlInput1" name="email">
         </div>
         <select class="form-select" aria-label="Default select example" name="reason">
@@ -25,9 +25,9 @@
         </select>
         <br>
         <div class="form-floating">
-            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"
+            <textarea class="form-control text-light" placeholder="Leave a comment here" id="floatingTextarea"
                 name="textarea"></textarea>
-            <label for="floatingTextarea">Leave your message</label>
+            <label for="floatingTextarea" class="text-light">Leave your message</label>
         </div>
         <br>
         <button type="submit" class="btn btn-info">Submit</button>

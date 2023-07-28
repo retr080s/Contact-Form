@@ -12,11 +12,12 @@ $ticketNum = rand(4578, 312899);
 
 <head>
 
-<body>
-    <div class="card">
-        <div class="card-header">
-            Message sent
-        </div>
+<body style="background-color: #2b3035;">
+    <div class="card " data-bs-theme="dark">
+        <div class="alert alert-success" role="alert">
+  Message sent successfully
+</div>
+
         <div class="card-body">
             <h5 class="card-title">Your message: </h5>
             <p class="card-text">Your ticket number is:
